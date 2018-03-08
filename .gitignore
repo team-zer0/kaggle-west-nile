@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
@@ -31,3 +32,7 @@ Temporary Items
 
 # Photoshop files
 .psd
+=======
+.DS_store
+.ipynb_checkpoints
+>>>>>>> c71c8300ae3bdd7aaf332af47418a3575b240336
