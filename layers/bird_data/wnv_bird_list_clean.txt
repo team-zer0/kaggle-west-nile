@@ -1,0 +1,332 @@
+abyssinian ground-hornbill
+acorn woodpecker
+african grey parrot
+african penguin
+american coot
+american crow
+american dipper
+american goldfinch
+american kestrel
+american robin
+american white pelican
+anna's hummingbird
+ash-throated flycatcher
+bald eagle
+baltimore oriole
+band-tailed pigeon
+bank swallow
+barn owl
+barn swallow
+barred owl
+belted kingfisher
+black phoebe
+black skimmer
+black vulture
+black-billed magpie
+black-capped chickadee
+black-capped lory
+black-chinned hummingbird
+black-chinned sparrow
+black-crowned night heron
+black-headed grosbeak
+black-throated blue warbler
+black-throated gray warbler
+black-whiskered vireo
+blackpoll warbler
+blue jay
+blue-crowned conure
+blue-eared pheasant
+blue-streaked lory
+blythe's tragopan
+boat-tailed grackle
+bobolink
+boreal owl
+brewer's blackbird
+broad-winged hawk
+bronze-winged duck
+bronzed cowbird
+brown thrasher
+brown-headed cowbird
+budgerigar
+bufflehead
+bullock's oriole
+burrowing owl
+bushtit
+cackling goose
+cactus wren
+california condor
+california gull
+california quail
+california towhee
+canada goose
+canada warbler
+canary-winged parakeet
+canvasback
+carolina chickadee
+carolina wren
+caspian tern
+cassin's finch
+cattle egret
+cedar waxwing
+chestnut-backed chickadee
+chihuahuan raven
+chilean flamingo
+chimney swift
+chinese goose
+chipping sparrow
+chukar
+cinereus vulture
+cinnamon teal
+clapper rail
+clark's grebe
+clark's nutcracker
+cliff swallow
+cockatiel
+cockatoo
+common black-hawk
+common canary
+common goldeneye
+common grackle
+common ground-dove
+common loon
+common merganser
+common moorhen
+common murre
+common nighthawk
+common peafowl
+common raven
+common yellowthroat
+cooper's hawk
+costa's hummingbird
+crimson rosella
+crimson-fronted parakeet
+dark-eyed junco
+dickcissel
+domestic chicken
+double-crested cormorant
+downy woodpecker
+dusky lory
+eastern bluebird
+eastern kingbird
+eastern phoebe
+eastern screech-owl
+eastern towhee
+elegant crested tinamou
+elf owl
+emperor goose
+emu
+eurasian collared-dove
+eurasian jay
+eurasian wigeon
+european goldfinch
+european starling
+evening grosbeak
+ferruginous hawk
+field sparrow
+fish crow
+flammulated owl
+fox sparrow
+gila woodpecker
+glaucous-winged gull
+golden eagle
+golden-crowned sparrow
+gouldian finch
+gray catbird
+gray-cheeked thrush
+great black-backed gull
+great blue heron
+great crested flycatcher
+great egret
+great gray owl
+great horned owl
+great-tailed grackle
+greater flamingo
+greater prairie-chicken
+greater roadrunner
+greater sage-grouse
+greater scaup
+greater white-fronted goose
+green heron
+green-winged teal
+guanay cormorant
+gyrfalcon
+hairy woodpecker
+hammond's flycatcher
+harris' hawk
+hawaiian goose (nene)
+hermit thrush
+herring gull
+hooded crow
+hooded merganser
+hooded oriole
+hooded warbler
+house finch
+house sparrow
+house wren
+humboldt penguin
+impeyan pheasant
+inca dove
+inca tern
+kentucky warbler
+killdeer
+lark sparrow
+laughing gull
+lazuli bunting
+least bittern
+least tern
+leconte's thrasher
+lesser goldfinch
+lesser nighthawk
+lesser scaup
+lewis' woodpecker
+limpkin
+lincoln's sparrow
+loggerhead shrike
+long-eared owl
+macaw
+macgillivray's warbler
+mallard
+merlin
+mexican jay
+micronesian kingfisher
+mississippi kite
+monal pheasant
+mottled duck
+mountain bluebird
+mountain chickadee
+mountain quail
+mourning dove
+muscovy duck
+mute swan
+nashville warbler
+northern bobwhite
+northern cardinal
+northern flicker
+northern goshawk
+northern harrier
+northern hawk-owl
+northern mockingbird
+northern parula
+northern pintail
+northern saw-whet owl
+northern waterthrush
+nutmeg mannikin
+nuttall's woodpecker
+oak titmouse
+olive-sided flycatcher
+orange-crowned
+orchard oriole
+osprey
+ovenbird
+pacific parrotlet
+pacific-slope flycatcher
+pale-headed rosella
+palm tanager
+pelagic cormorant
+peregrine falcon
+pied-billed grebe
+pine siskin
+pinyon jay
+piping plover
+prairie falcon
+puna teal
+purple finch
+purple gallinule
+purple martin
+pygmy nuthatch
+rainbow lorikeet
+red crossbill
+red lory
+red-bellied woodpecker
+red-breasted goose
+red-breasted nuthatch
+red-breasted sapsucker
+red-crowned parrot
+red-eyed vireo
+red-headed woodpecker
+red-shouldered hawk
+red-tailed hawk
+red-winged blackbird
+ring-billed gull
+ring-necked pheasant
+ringed turtle-dove
+rock pigeon
+rock wren
+rose-breasted grosbeak
+rough-legged hawk
+ruby-throated hummingbird
+ruddy duck
+ruddy turnstone
+ruffed grouse
+rufous hummingbird
+rusty blackbird
+sandhill crane
+satyr tragopan
+savannah sparrow
+scarlet ibis
+scarlet tanager
+scissor-tailed flycatcher
+sharp-shinned hawk
+short-eared owl
+smew
+snow goose
+snowy egret
+snowy owl
+society finch
+song sparrow
+sora
+spotted owl
+spotted towhee
+steller's jay
+swainson's hawk
+swainson's thrush
+swallow-tailed kite
+swamp sparrow
+tawny owl
+tennessee warbler
+thayer's gull
+thick-billed parrot
+townsend's warbler
+tree swallow
+tricolored blackbird
+tufted titmouse
+tundra swan
+turkey vulture
+varied thrush
+varied tit
+veery
+violet-necked lorikeet
+virginia rail
+warbling vireo
+wedge-tailed eagle
+western bluebird
+western kingbird
+western meadowlark
+western sandpiper
+western screech-owl
+western scrub-jay
+western tanager
+whip-poor-will
+white-breasted nuthatch
+white-crowned pigeon
+white-crowned sparrow
+white-faced ibis
+white-tailed kite
+white-winged dove
+whooping crane
+wild turkey
+willow flycatcher
+wilson's warbler
+winter wren
+wood duck
+wood thrush
+yellow warbler
+yellow-bellied sapsucker
+yellow-billed cuckoo
+yellow-billed duck
+yellow-billed magpie
+yellow-crowned night-heron
+yellow-rumped warbler
+yellow-throated warbler
+zebra finch
+zenaida dove
